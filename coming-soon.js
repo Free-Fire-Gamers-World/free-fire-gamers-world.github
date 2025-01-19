@@ -4,7 +4,7 @@ var countDownDate = new Date("Jan 26, 2025 10:00:00").getTime();
 // Update the count down every 1 second
 var x = setInterval(function() {
 
-  // Get today's date and time
+  // Get todays date and time
   var now = new Date().getTime();
 
   // Find the distance between now and the count down date
