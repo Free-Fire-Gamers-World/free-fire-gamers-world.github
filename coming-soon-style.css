@@ -26,6 +26,10 @@ body, html {
   font-size: 25px;
 }
 
+a, a:active, a:visited {
+    color: #2869d1;
+}
+
 /* Position text in the top-left corner */
 .topleft {
   position: absolute;
